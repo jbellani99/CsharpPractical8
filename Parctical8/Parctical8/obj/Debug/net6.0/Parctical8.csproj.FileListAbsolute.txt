@@ -1,0 +1,15 @@
+C:\Users\jayesh\source\repos\Parctical8\Parctical8\obj\Debug\net6.0\Parctical8.csproj.AssemblyReference.cache
+C:\Users\jayesh\source\repos\Parctical8\Parctical8\obj\Debug\net6.0\Parctical8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayesh\source\repos\Parctical8\Parctical8\obj\Debug\net6.0\Parctical8.AssemblyInfoInputs.cache
+C:\Users\jayesh\source\repos\Parctical8\Parctical8\obj\Debug\net6.0\Parctical8.AssemblyInfo.cs
+C:\Users\jayesh\source\repos\Parctical8\Parctical8\obj\Debug\net6.0\Parctical8.csproj.CoreCompileInputs.cache
+C:\Users\jayesh\source\repos\Parctical8\Parctical8\bin\Debug\net6.0\Parctical8.exe
+C:\Users\jayesh\source\repos\Parctical8\Parctical8\bin\Debug\net6.0\Parctical8.deps.json
+C:\Users\jayesh\source\repos\Parctical8\Parctical8\bin\Debug\net6.0\Parctical8.runtimeconfig.json
+C:\Users\jayesh\source\repos\Parctical8\Parctical8\bin\Debug\net6.0\Parctical8.dll
+C:\Users\jayesh\source\repos\Parctical8\Parctical8\bin\Debug\net6.0\Parctical8.pdb
+C:\Users\jayesh\source\repos\Parctical8\Parctical8\obj\Debug\net6.0\Parctical8.dll
+C:\Users\jayesh\source\repos\Parctical8\Parctical8\obj\Debug\net6.0\refint\Parctical8.dll
+C:\Users\jayesh\source\repos\Parctical8\Parctical8\obj\Debug\net6.0\Parctical8.pdb
+C:\Users\jayesh\source\repos\Parctical8\Parctical8\obj\Debug\net6.0\Parctical8.genruntimeconfig.cache
+C:\Users\jayesh\source\repos\Parctical8\Parctical8\obj\Debug\net6.0\ref\Parctical8.dll
